@@ -1,0 +1,21 @@
+{
+  "name": "sugar-coat-bin",
+  "version": "0.1.0",
+  "description": "egg项目辅助开发工具",
+  "bin": {
+    "sugar-coat-bin": "bin/sugar-coat-bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:naij/sugar-coat-bin.git"
+  },
+  "author": {
+    "name": "naij"
+  },
+  "dependencies": {
+    "egg-bin": "^1.1.1"
+  },
+  "engines": {
+    "node": ">= 4.4.4"
+  }
+}
